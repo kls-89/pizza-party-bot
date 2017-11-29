@@ -1,0 +1,20 @@
+{
+  "name": "pizza_party",
+  "version": "1.0.0",
+  "description": "Picks 3 random pizza toppings and tweets them once an hour.",
+  "main": "pizza.js",
+  "scripts": {
+    "test": "Error"
+  },
+  "keywords": [
+    "pizza",
+    "party",
+    "twitter",
+    "bot"
+  ],
+  "author": "keenan leonard-solis",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
