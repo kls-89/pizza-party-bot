@@ -6,3 +6,6 @@ I love pizza but always end up ordering the same kind every time. So I coded a P
 5/14/17 After 6,006 tweets, I've decided to retire the Pizza Party Bot experiment. I'll work on a new idea soon! Thanks for following along!
 
 https://twitter.com/code8keen
+
+
+![Screenshot of the Pizza Bot Twitter Account](Screen%20Shot%202017-11-29%20at%204.37.18%20AM.png "Output for Twitter Pizza Party Bot.")
